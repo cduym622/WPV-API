@@ -1,4 +1,4 @@
-# WPV-API
+# Workplace Violence Prediction Webapp
 This repository links below to the Workplace Violence Prediction API, where I worked as a developer in an Agile team of 6.
 
 ### [Workplace Violence Prediction API](https://github.com/averybobbitt/workplace-violence-prediction-api)
